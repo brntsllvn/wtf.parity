@@ -4,7 +4,7 @@ title:  "Why This Blog?"
 date:   2019-05-29
 author: Brent Sullivan
 author-page: brent-sullivan
-read-time: 4
+read-time: 3
 excerpt: Practical parity.
 ---
 
@@ -20,16 +20,31 @@ At another meeting, a mom described simply walking away from her husband, forcin
 
 Eventually, ["You Should’ve Asked"](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/) circulated amongst the group. At the next meeting, indignant, I blurted out moms and dads could not agree on what "really" mattered. Having accused women of inventing work, I argued that reconciling what "really" mattered would solve the problem. The room was silent.
 
-Fortunately, Darcy Lockman's ["All The Rage"](https://darcylockman.com/all-the-rage) was published around this time. I dutifully read the [teaser](https://www.nytimes.com/2019/05/04/opinion/sunday/men-parenting.html). Intrigued, I read [another](https://www.theatlantic.com/ideas/archive/2019/05/mothers-shouldnt-be-grateful-their-husbands-help/588787/). Then I heard [Lockman on NPR](https://www.npr.org/2019/05/12/722173367/all-the-rage-isn-t-about-moms-having-it-all-it-s-about-moms-doing-it-all). Then I bought the book. 
+Fortunately, Darcy Lockman's ["All The Rage"](https://darcylockman.com/all-the-rage) was published around this time. I dutifully read the [teaser](https://www.nytimes.com/2019/05/04/opinion/sunday/men-parenting.html). Intrigued, I read [another](https://www.theatlantic.com/ideas/archive/2019/05/mothers-shouldnt-be-grateful-their-husbands-help/588787/). Then I heard [Lockman on NPR](https://www.npr.org/2019/05/12/722173367/all-the-rage-isn-t-about-moms-having-it-all-it-s-about-moms-doing-it-all). Seeing myself in Lockman's many anecdotes, I bought her book. 
 
 Was I just another "junior apprentice in child-rearing," as one of Lockman's interviewees bemoaned, "helping" my wife rather than partnering with her?
 
 Yes.
 
-I do more than my father, but despite this generational improvement, my wife and I split work 65/35, optimistically, Lockman says. When it comes to what "really" matters, Lockman answers that women usually handle thank-you cards, preparing gifts for visitors and similar social tasks. What "really" matters to me is my son and my marriage, so these things now "really" matter to me.
+I do more than my father, but despite this generational improvement, my wife and I optimistically split work 65/35, Lockman says. When it comes to what "really" matters, Lockman answers that women usually handle thank-you cards, preparing gifts for visitors and similar social tasks. What "really" matters to me is my son and my marriage, so these things now "really" matter to me.
 
 Lockman eviscerates every rationalization - from social to biological - for men contributing less than 50/50 in so-called "unpaid labor." But now what? Lockman offers vague calls for men to "stop resisting" and "cop" to our unearned privilege, while women should relinquish gratitude for "righteous anger." I agree, but I also want more rubber-meets-road ideas for achieving parity.
 
 [Heuristics for Parity](/) is a collection of practical guidance.
 
-Like Lockman, my goal is to interview a lot of couples. I want to understand what works by speaking with couples who feel they have achieved parity and report their wisdom here in actionable terms.
+Wait. My wife needed _no_ heuristics, why do I? Because I've been screwing up a long time. Acknowledging my shortcoming as an equal partner is the first step toward correcting it. Heuristics are tasks and thought patterns I'm transforming into habits.
+
+This blog is not just my ramblings.
+
+However rare, couples who have achieved parity exist and I will tell their stories here. Like Lockman, my goal is to speak with a lot of people and collect anecdotes and tips ("heuristics") anyone can use.
+
+My goal is parity. 
+
+According to the OECD, "the unequal distribution of unpaid work is a key barrier to gender equality overall." <sup>1</sup> Maybe this blog will help.
+
+
+<sub>1. OECD (2017), "Gender inequality in unpaid work", in The Pursuit of Gender Equality: An Uphill Battle, OECD Publishing, Paris, [https://doi.org/10.1787/9789264281318-18-en](https://doi.org/10.1787/9789264281318-18-en).
+</sub>
+
+                   
+
