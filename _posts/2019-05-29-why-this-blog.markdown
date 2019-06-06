@@ -32,7 +32,7 @@ Lockman eviscerates every rationalization - from social to biological - for men 
 
 [Heuristics for Parity](/) is a collection of practical guidance.
 
-Wait. My wife needed _no_ heuristics, why do I? Because I've been screwing up a long time. Acknowledging my shortcoming as an equal partner is the first step toward correcting it. Heuristics are tasks and thought patterns I'm transforming into habits.
+Wait. My wife needs _no_ heuristics, why do I? Because I've been screwing up a long time. Acknowledging my shortcoming as an equal partner is the first step toward correcting it. Heuristics are tasks and thought patterns I'm transforming into habits.
 
 This blog is not just my ramblings.
 
@@ -46,5 +46,4 @@ According to the OECD, "the unequal distribution of unpaid work is a key barrier
 <sub>1. OECD (2017), "Gender inequality in unpaid work", in The Pursuit of Gender Equality: An Uphill Battle, OECD Publishing, Paris, [https://doi.org/10.1787/9789264281318-18-en](https://doi.org/10.1787/9789264281318-18-en).
 </sub>
 
-                   
 
