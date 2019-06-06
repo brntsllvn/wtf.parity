@@ -13,4 +13,4 @@ brntsllvn at gmail dot com
 
 I'm a software developer at [Zillow](https://www.zillow.com/). Before that, I worked in money management and studied engineering at Cornell University.
 
-Adler is my son. Betsy is my wife. We live in Seattle.
+I live in Seattle with my wife and baby boy.

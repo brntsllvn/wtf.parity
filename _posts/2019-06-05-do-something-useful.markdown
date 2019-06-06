@@ -10,7 +10,7 @@ excerpt: While she's breastfeeding, do something useful.
 
 On June 3, 2019, I kept a log of my, my wife's and my four-month-old's activities in 15-minute increments.
 
-My log is not perfect (we don't live in 15-min increments and I'm on paternity leave, as examples), but something stuck out: In one day, my wife spent 2.75 waking hours breastfeeding (45 min), burping (30 min) and pumping (90 min). Assuming (optimistically) seven sleeping hours, that means of her 17 waking hours, 17% was just boob stuff.
+My log is not perfect (we don't live in 15-min increments and I'm on paternity leave), but something stuck out: In one day, my wife spent 2.75 waking hours breastfeeding (45 min), burping (30 min) and pumping (90 min). Assuming (optimistically) seven sleeping hours, that means of her 17 waking hours, 17% was just boob stuff.
 
 Maybe she could tighten up the 90 min pumping (which involves packing pumping gear, physically going to the lactation room, pumping, and cleaning said gear) to something like 60 min (her estimate), but that's still 13% of her day feeding our child.
 
