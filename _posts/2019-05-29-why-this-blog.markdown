@@ -40,10 +40,7 @@ However rare, couples who have achieved parity exist and I will tell their stori
 
 My goal is parity. 
 
-According to the OECD, "the unequal distribution of unpaid work is a key barrier to gender equality overall." <sup>1</sup> Maybe this blog will help.
+According to the OECD, "the unequal distribution of unpaid work is a key barrier to gender equality overall." {% include sup.html number=1 %} Maybe this blog will help.
 
-
-<sub>1. OECD (2017), "Gender inequality in unpaid work", in The Pursuit of Gender Equality: An Uphill Battle, OECD Publishing, Paris, [https://doi.org/10.1787/9789264281318-18-en](https://doi.org/10.1787/9789264281318-18-en).
-</sub>
-
+{% include citation.html number=1 text="OECD (2017), \"Gender inequality in unpaid work\", in The Pursuit of Gender Equality: An Uphill Battle, OECD Publishing, Paris, [https://doi.org/10.1787/9789264281318-18-en](https://doi.org/10.1787/9789264281318-18-en)" %}
 
