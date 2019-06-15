@@ -18,7 +18,7 @@ I said she wasn't wrong, but her criticism was as unrelenting as childcare itsel
 
 It took me 12 hours to acknowledge that she'd "handled my outburst well." 
 
-Sadly, [women are judged more harshly than men for messiness](https://www.nytimes.com/2019/06/11/upshot/why-women-but-not-men-are-judged-for-a-messy-house.html) and consequently my wife has developed "systems" for housekeeping and I have not. Put another way, my wife is more skilled at unpaid work than I am.
+Sadly, [we judge women more harshly than men for messiness](https://www.nytimes.com/2019/06/11/upshot/why-women-but-not-men-are-judged-for-a-messy-house.html) and consequently my wife has developed "systems" for housekeeping and I have not. Put another way, my wife is more skilled at unpaid work than I am.
 
 <small>Quick aside: This provides me a convenient (and lame) excuse: "you're good at [insert domestic task], and I'm not, so go ahead and do it." Tina Miller calls this "paternal gatekeeping"{% include sup.html number=1 %} and it is bad. Miller points out "it is hard to imagine 'incompetency' being claimed by men in the workplace in relation to workplace practices ('I just can’t get my head around the routine')." Similarly, it's hard for me to imagine my defensive reaction as tolerable in a work environment.</small>
 
