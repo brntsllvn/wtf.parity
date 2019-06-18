@@ -2,6 +2,7 @@
 layout: post
 title:  "Use A Kanban Board"
 date:   2019-06-07
+updated: 2019-06-17
 author: Brent Sullivan
 author-page: brent-sullivan
 read-time: 3
@@ -32,6 +33,8 @@ The mental load is visible on the board.
 The board gets my brain moving. I now proactively assign myself tasks. It is surprisingly satisfying to move "Doing" tasks into "Done."
 
 I will update this post after we've used the board for a while even if we stop using it. But so far, it is helping.
+
+*Update (June 6, 2017): Kanban seems mostly useful for simmering tasks. We tried having a "bedtime routine" (with 10-step checklist) card which recurred every night, but this was cumbersome and unnecessary after just a couple days. However, I created a "make a will" card a couple weeks ago and the card successfully kept the task on my radar and this week I got the wheels rolling by contacting a lawyer friend for a reference.*
 
 {% include lockman.html number=1 section="Chapter 4: The Default Parent." %}
 
