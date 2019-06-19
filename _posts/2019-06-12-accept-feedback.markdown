@@ -5,7 +5,7 @@ date:   2019-06-12
 author: Brent Sullivan
 author-page: brent-sullivan
 read-time: 3
-excerpt: Domestic skills are developed. Feedback gets you there.
+excerpt: Develop domestic skills using feedback.
 ---
 
 Two nights ago I lost it. 
